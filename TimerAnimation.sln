@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerAnimation", "TimerAnimation.csproj", "{08773C1B-680A-4B8D-8814-3377A04ADFED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08773C1B-680A-4B8D-8814-3377A04ADFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08773C1B-680A-4B8D-8814-3377A04ADFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08773C1B-680A-4B8D-8814-3377A04ADFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08773C1B-680A-4B8D-8814-3377A04ADFED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A39104C-764A-4078-BD6E-A097401A239D}
+	EndGlobalSection
+EndGlobal
